@@ -94,7 +94,7 @@ int main()
             cout <<"(=) Subtotal\t\t" << subtotal << "." <<  subtotalDecimal << endl;
             cout <<"(-) Retencion ISR\t" << retencionIsr << "." << retencionIsrDecimal << endl;
             cout <<"(-) Retencion IVA\t" << retencionIva << "." << retencionIvaDecimal << endl;
-            cout <<"(=) Total\t\t" << total << "." << totalDecimal << endl;1
+            cout <<"(=) Total\t\t" << total << "." << totalDecimal << endl;
 
         }
     }
